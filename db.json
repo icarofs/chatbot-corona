@@ -274,13 +274,13 @@
         ]
     },
     "brazilData": {
-        "confirmed": 8066,
+        "confirmed": 8076,
         "recovered": 127,
         "deaths": 327
     },
     "worldData": {
-        "confirmed": 1030628,
-        "recovered": 218771,
-        "deaths": 54137
+        "confirmed": 1033478,
+        "recovered": 218864,
+        "deaths": 54369
     }
 }
