@@ -5,7 +5,7 @@ const STATES_DATA = "https://covid19-brazil-api.now.sh/api/report/v1";
 const BRAZIL_DATA = "https://covid19.mathdro.id/api/countries/BR";
 const WORLD_DATA = "https://covid19.mathdro.id/api";
 
-async function getDate() {
+async function getData() {
   await axios.get(STATES_DATA).then(
     response => {
       statesData = response.data;
@@ -46,4 +46,4 @@ setInterval(() => {
   getData();
 }, 600000);
 
-getDate();
+getData();
