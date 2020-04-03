@@ -5,7 +5,7 @@
 
 ## 💻 Project
 
-Bot for whatsapp that seeks information from
+Bot for whatsapp that seeks information from OMS
 
 <h1 align="center">
     <img alt="home-page" title="home-page" src="https://user-images.githubusercontent.com/40183867/78368100-803aba80-7599-11ea-88d4-1fc73e32258a.png"  />
